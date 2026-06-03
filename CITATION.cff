@@ -11,7 +11,7 @@ type: software
 authors:
   - given-names: Davi
     family-names: Coutinho
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- preencha apos criar o ORCID
+    # orcid: "https://orcid.org/0009-0007-9356-9368"   # <-- preencha apos criar o ORCID
 license: MIT
 keywords:
   - reinforcement learning
