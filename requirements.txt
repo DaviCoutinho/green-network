@@ -1,0 +1,20 @@
+# Ambiente de simulacao Green Network (5G + LEO + DQN)
+# Testado com Python 3.11.9 (ambiente isolado via venv/pyenv).
+# PyTorch instalado em variante CPU-only (hardware sem GPU).
+#
+# Instalacao recomendada:
+#   python -m venv .venv
+#   source .venv/bin/activate        # Linux/Mac
+#   pip install --upgrade pip
+#   pip install -r requirements.txt
+#
+# Observacao: o Python 3.13 do sistema e recente demais para a stack de RL;
+# use Python 3.11.x num ambiente isolado para garantir compatibilidade entre
+# Stable-Baselines3, Gymnasium e PyTorch.
+
+gymnasium>=0.29,<1.0
+stable-baselines3>=2.0,<3.0
+torch>=2.0          # variante CPU-only e suficiente
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7

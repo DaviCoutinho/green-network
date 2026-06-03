@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se voce usar este software, por favor cite-o conforme abaixo."
+title: "Green Network: Seleção sustentável de enlace 5G/LEO com aprendizado por reforço (DQN)"
+abstract: >-
+  Ambiente de simulação em Python/Gymnasium e agente Deep Q-Network (DQN)
+  para seleção dinâmica e energeticamente eficiente de enlace em redes
+  híbridas 5G terrestre + satélites LEO. O modelo de energia segue a
+  formulação afim de Auer et al. (2011); a redução de consumo emerge da
+  política aprendida pelo agente, medida contra uma rede 5G tradicional.
+type: software
+authors:
+  - given-names: Davi
+    family-names: Coutinho
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- preencha apos criar o ORCID
+license: MIT
+keywords:
+  - reinforcement learning
+  - DQN
+  - 5G
+  - LEO satellites
+  - energy efficiency
+  - green networking
+  - non-terrestrial networks
+version: "1.0.0"
+date-released: "2026-06-03"
