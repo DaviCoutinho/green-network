@@ -180,8 +180,6 @@ Coutinho, D. (2026). Green Network: Seleção sustentável de enlace 5G/LEO com
 aprendizado por reforço (DQN) [Software]. https://doi.org/10.5281/zenodo.20520840
 ```
 
-> Após publicar no Zenodo, substitua `<DOI-do-Zenodo>` pelo DOI gerado, e
-> preencha o campo `orcid` em `CITATION.cff`.
 
 ---
 
